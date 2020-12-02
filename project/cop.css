@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+body {background-color: #fff5ee;
+	
+	 font-family:"Comic Sans MS", cursive;
+	color: black;
+
+
+}
+
+
+
+nav{
+	
+	background-color:darkred;
+	color: antiquewhite;
+	font: bold;
+	
+	height: 80px;
+	width: 100%;
+	
+	
+	position:absolute;
+	width: 100%;
+	
+	padding-top: 10px;
+}
+.ggg{
+	text-align: left;
+	background-color: lightgrey;
+}
+.ppp{
+	text-align: left;
+	background-color: darkred;
+	color: antiquewhite;
+}
+
+.logo{border-radius:100%;
+text-align:center;
+margin-left:40%;
+margin-top:10%;
+}
+.nav-content{
+position:absolute;
+top:30px;
+right:40px;
+background-color: darkred;
+	color: #fff5ee;
+}
+ol{
+list-style:none;
+letter-spacing:2px;
+text-transform: uppercase;
+display: inline-block;}
+li{
+display:inline-block;
+text-align: right;}
+li a:hover{color: darkgray;}
+.nav-pic{width:400px;
+height:450px;
+}
+
